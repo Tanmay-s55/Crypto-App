@@ -9,3 +9,4 @@ Tech Use:
   <li>Hooks</li>
   <li>Zustand</li>
 </ul>
+Deployed at : https://ts-crypto.netlify.app/
